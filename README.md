@@ -7,3 +7,5 @@
    2. add product images
    3. render products
    4. style products
+6. creating routers
+7. backend initializing
